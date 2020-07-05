@@ -3,7 +3,7 @@ First Hack
 
 ... If you can call it that much.
 
-Years ago, I was playing the online browser game Ambar in which you had to pick a class which determined what spells you could cast
+Years ago, I was playing the online browser game **Ambar** (since down) in which you had to pick a class which determined what spells you could cast
 by selecting it in a simple dropdown. So we were playing an empire in which we grew like mad without training any troops.  
 If we could outgrow everyone, no one would be able to open a portal to us, which was kind of the idea because as you can guess
 having no troops in a war game usually is.. problematic.
